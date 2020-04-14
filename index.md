@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 我是谁
 
-You can use the [editor on GitHub](https://github.com/gmq2007/gaomaoqi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+一名OIer，坐标重庆，喜欢民航。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+BS中学初一在读
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 联系我
 
-```markdown
-Syntax highlighted code block
+e-mail：gao.maoqi.2007@foxmail.com
 
-# Header 1
-## Header 2
-### Header 3
+luogu：gaomaoqi2022
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmq2007/gaomaoqi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+github：gaomaoqi
